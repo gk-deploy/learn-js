@@ -1,0 +1,22 @@
+{
+  "name": "best-js",
+  "version": "1.0.0",
+  "description": "Implementation of good practice about js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguellgt/best-js.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Miguel Angel Galicia <miguel.galiciatorrez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguellgt/best-js/issues"
+  },
+  "homepage": "https://github.com/miguellgt/best-js#readme"
+}
