@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/miguellgt/best-js/issues"
   },
-  "homepage": "https://github.com/miguellgt/best-js#readme"
+  "homepage": "https://github.com/miguellgt/best-js#readme",
+  "devDependencies": {
+    "standard": "^5.4.1",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.4.0"
+  }
 }
