@@ -2,9 +2,20 @@
   "name": "best-js",
   "version": "1.0.0",
   "description": "Implementation of good practice about js",
+  "standard": {
+    "globals": [
+      "describe",
+      "before",
+      "beforeEach",
+      "after",
+      "afterEach",
+      "it",
+      "expect"
+    ]
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --recursive ./lib/TDD/test/js"
   },
   "repository": {
     "type": "git",
